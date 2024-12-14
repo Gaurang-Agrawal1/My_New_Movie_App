@@ -60,7 +60,5 @@ To run tests, use the command: `npm test`
 
 - Third-party libraries or resources used like jwt,omdb Api
 
-## License
 
-This project is licensed under the MIT patent.
 
